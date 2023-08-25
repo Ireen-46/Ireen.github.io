@@ -11,9 +11,9 @@ title                    : "Tonmoy Hossain"
 title_separator          : "-"
 name                     : &name "Tonmoy Hossain"
 description              : &description "personal description"
-url                      : https://Asifur-Rahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asifur-rahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Annoy180104109/Asifur-Rahim.github.io"
+repository               : "tonmoy-hossain/tonmoy-hossain.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
