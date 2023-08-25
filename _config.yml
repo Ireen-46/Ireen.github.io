@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tonmoy Hossain"
+title                    : "Mohammad Asifur Rahim"
 title_separator          : "-"
-name                     : &name "Tonmoy Hossain"
+name                     : &name "Mohammmad Asifur Rahim"
 description              : &description "personal description"
 url                      :  https://annoy180104109.github.io/asifur-rahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tonmoy Hossain"
-  avatar           : "final_picture.jpg"
+  name             : "Mohammad Asifur Rahim"
+  avatar           : "pp.jpg"
   bio              : "Communicating with the data to contribute to the field of Deep Learning and Computer Vision for mankind is my pre-eminent ambition"
-  location         : "Virginia, United States"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=JoLJE7AAAAAJ&hl=en"
