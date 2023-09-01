@@ -3,6 +3,9 @@ layout: archive
 title: "Research and Publication"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
+
 ---
 
 

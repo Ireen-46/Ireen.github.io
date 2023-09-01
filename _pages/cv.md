@@ -31,7 +31,7 @@ Daffodil International University of Science and Technology<br />
  <br /> 
 **Website:** [https://annoy180104109.github.io/asifur-rahim.github.io/](https://annoy180104109.github.io/asifur-rahim.github.io/) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?hl=en&user=LxGVl2wAAAAJ), [Github](https://github.com/tonmoy-hossain).
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=5O9QMxUAAAAJ&hl=en), [Github](https://github.com/Annoy180104109).
 
 
 **Address:**
@@ -42,5 +42,5 @@ Daffodil Smart City,Ashulia <br />
 Dhaka, Bangladesh. <br /> 
 </address> 
 <br /> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142.6637063595263!2d-78.51303458467491!3d38.031618779713504!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b387de913a5b07%3A0xb964f7ee988d1b26!2sRice%20Hall!5e0!3m2!1sen!2sus!4v1632759290420!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/dir/23.7698102,90.3632769/daffodil+international+university+ashulia/@23.8194855,90.1759232,11.38z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3755b8ada2664e21:0x3c872fd17bc11ddb!2m2!1d90.3201592!2d23.8768956?entry=ttu" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 __________________________________________________________
