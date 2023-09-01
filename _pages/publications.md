@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research and Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -8,9 +8,10 @@ author_profile: true
 
 
  # Accepted Conference Paper
+ 
  * "Automated Agricultural Pest identification Using Convlutional Neural Network-Based Transfer Learning".[International Conference Big Data,IOT and Machine Learning(BIM 2023)](https://confbim.com/)
 
- 
+
 
 # On-Going Research Work
 
