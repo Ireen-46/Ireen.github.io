@@ -17,9 +17,9 @@ redirect_from:
 * Ahsanullah University of Science and Technology (AUST), Dhaka, Bangladesh.
 * **CGPA:  3.872** [*out of 4.00*]
 * **5<sup>rd</sup>** out of 150 students
-* **Thesis title:** ["A Deep Learning Based Method to Predict Plant Diseases:A Case Study With Rice Plant Disease Classification "](https://tonmoy-hossain.github.io/files/Hossain_Tonmoy_B.Sc._Thesis.pdf) 
-* **Thesis Presentation:** [[Presentation]](https://tonmoy-hossain.github.io/files/DefenseFinalPresentation.pdf) 
-* **Supervisor:** [Prof.Dr.Mohammad Shafiul Alam](https://scholar.google.com/citations?user=su683LQAAAAJ&hl=en), Professor, Department of CSE, AUST
+* **Thesis title:** ["A Deep Learning Based Method to Predict Plant Diseases:A Case Study With Rice Plant Disease Classification "](https://annoy180104109.github.io/asifur-rahim.github.io/files/Final_Defense.pdf) 
+* **Thesis Presentation:** [[Presentation]](https://annoy180104109.github.io/asifur-rahim.github.io/files/DefenseFinalPresentation.pdf) 
+* **Supervisor:** [Prof.Dr.Mohammad Shafiul Alam](https://scholar.google.com/citations?user=5ZXfn_cAAAAJ&hl=en), Professor, Department of CSE, AUST
 
 <br /> 
 # Participation and Awards
