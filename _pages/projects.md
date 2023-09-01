@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Undergraduate Course Projects [2018-2022]
-* Aero-Fighter(*Language: C and iGraphics.h*,tools: Visual Studio)<a href="https://github.com/Annoy180104109/Aero-figher-1.2">Link</a>
+* Aero-Fighter(*Language: C and iGraphics.h,tools: Visual Studio*)<a href="https://github.com/Annoy180104109/Aero-figher-1.2">Link</a>
 * Banking Managment System(*Language: Java, Database :Xamp ,tools: Netbeans*)<a href="https://github.com/Annoy180104109/Banking-Management--2.1">Link</a>
 * Basic Calculator (*Language: Java, tools: Netbeans*)<a href="https://github.com/Annoy180104109/180104109miniProject">Link</a>
 * Disease Tracker (*Language: Java,Database: Firebase, tools: Android Studio*)<a href="https://github.com/Annoy180104109/DiseaseTracker">Link</a>

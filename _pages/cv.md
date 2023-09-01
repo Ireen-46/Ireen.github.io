@@ -27,7 +27,7 @@ Daffodil International University of Science and Technology<br />
 ## Contact Me
 -------------
 
-**Email:** asifurrahim.cse [at] diu [dot] edu, mohammadasifurrahim [at] gmail [dot] com<br /> 
+**Email:** asifurrahim.cse@diu.edu.bd, mohammadasifurrahim@gmail.com<br /> 
  <br /> 
 **Website:** [https://annoy180104109.github.io/asifur-rahim.github.io/](https://annoy180104109.github.io/asifur-rahim.github.io/) <br />
 
