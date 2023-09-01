@@ -42,5 +42,4 @@ Daffodil Smart City,Ashulia <br />
 Dhaka, Bangladesh. <br /> 
 </address> 
 <br /> 
-<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://www.google.com/maps/place/Daffodil+Smart+City/@23.875601,90.320302,14z/data=!4m6!3m5!1s0x3755c23dd12bbc75:0x313d214552eabe56!8m2!3d23.8756013!4d90.3203018!16s%2Fg%2F11n_xzl12w?hl=en&entry=ttu" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
-__________________________________________________________
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29187.16159450864!2d90.320302!3d23.875601!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c23dd12bbc75%3A0x313d214552eabe56!2sDaffodil%20Smart%20City!5e0!3m2!1sen!2sbd!4v1693576919002!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
