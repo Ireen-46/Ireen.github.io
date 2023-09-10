@@ -17,6 +17,7 @@ redirect_from:
 
 
 ## On-Going Research Work
+* Emperical Text Analysis for Identifying the Genres of Bengali Literary Work
 
 * Deep Learning Based Method to Predict Plant Diseases: A Case Study With Rice Plant Disease Classification"
 
