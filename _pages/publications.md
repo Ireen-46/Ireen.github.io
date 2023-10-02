@@ -12,7 +12,7 @@ redirect_from:
 
 ## Accepted Conference Paper
  
-* "Automated Agricultural Pest identification Using Convlutional Neural Network-Based Transfer Learning".[International Conference Big Data,IOT and Machine Learning(BIM 2023)](https://confbim.com/)
+* ["Automated Agricultural Pest identification Using Convlutional Neural Network-Based Transfer Learning"](https://annoy180104109.github.io/asifur-rahim.github.io/files/PESTS.pdf).[International Conference Big Data,IOT and Machine Learning(BIM 2023)](https://confbim.com/)
 
 
 

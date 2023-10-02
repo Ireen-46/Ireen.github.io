@@ -22,7 +22,7 @@ Daffodil International University of Science and Technology<br />
 <i style='color:#000099;'>**January 2023 - current**</i><br/>
 
 
-[Download Full CV](https://annoy180104109.github.io/asifur-rahim.github.io/files/CVlatest.pdf) [<ins>*Last Updated on August 26, 2023*</ins>]
+[Download Full CV](https://annoy180104109.github.io/asifur-rahim.github.io/files/Academic_CV_Annoy.pdf) [<ins>*Last Updated on October 02, 2023*</ins>]
 
 ## Contact Me
 -------------
