@@ -16,15 +16,19 @@ redirect_from:
 
 
 
-## On-Going Research Work
-* Emperical Text Analysis for Identifying the Genres of Bengali Literary Work
+## Under Review
 
-* Deep Learning Based Method to Predict Plant Diseases: A Case Study With Rice Plant Disease Classification"
+* ["Emperical Text Analysis for Identifying the Genres of Bengali Literary Work"](https://annoy180104109.github.io/asifur-rahim.github.io/files/Genre.pdf).[Journal of Advances in Information Technology(JAIT)](http://www.jait.us/)
+
+
+* ["Deep Learning Based Method to Predict Plant Diseases: A Case Study With Rice Plant Disease Classification"](https://annoy180104109.github.io/asifur-rahim.github.io/files/Rice_plant.pdf).[International Conference on Computer and Information Technology (ICCIT)](https://iccit.org.bd/2023/)
+
+## On-Going Research Work
 
 * Real Time Traffic Vehicle Detection and Counting Using Computer Vision Techniques
 
 * Image Steganography Using CNN
 
-## Research Experience
+## Research Project
 
 * Transformation of Real to Cartoon Images Using GAN.<a href="https://github.com/Annoy180104109/Real-To-Cartoon-Images">Git-hub Link</a>
