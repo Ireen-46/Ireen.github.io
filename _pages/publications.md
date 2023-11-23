@@ -11,6 +11,8 @@ redirect_from:
 
 
 ## Accepted Conference Paper
+
+* ["Deep Learning based method to predict Plant Diseases: A case study with Rice Plant Disease Classification"](https://annoy180104109.github.io/asifur-rahim.github.io/files/Rice.pdf).[International Conference on Computer and Information Technology (ICCIT)](https://iccit.org.bd/2023/)
  
 * ["Automated Agricultural Pest identification Using Convlutional Neural Network-Based Transfer Learning"](https://annoy180104109.github.io/asifur-rahim.github.io/files/PESTS.pdf).[International Conference Big Data,IOT and Machine Learning(BIM 2023)](https://confbim.com/)
 
@@ -21,13 +23,12 @@ redirect_from:
 * ["Emperical Text Analysis for Identifying the Genres of Bengali Literary Work"](https://annoy180104109.github.io/asifur-rahim.github.io/files/Genre.pdf).[Journal of Advances in Information Technology(JAIT)](http://www.jait.us/)
 
 
-* ["Deep Learning Based Method to Predict Plant Diseases: A Case Study With Rice Plant Disease Classification"](https://annoy180104109.github.io/asifur-rahim.github.io/files/Rice_plant.pdf).[International Conference on Computer and Information Technology (ICCIT)](https://iccit.org.bd/2023/)
 
 ## On-Going Research Work
 
 * Real Time Traffic Vehicle Detection and Counting Using Computer Vision Techniques
 
-* Image Steganography Using CNN
+*Explainable Artificial Intelligence (XAI) for Deep Learning Based Medical Imaging    Classification
 
 ## Research Project
 
