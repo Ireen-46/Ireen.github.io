@@ -28,7 +28,7 @@ redirect_from:
 
 * Real Time Traffic Vehicle Detection and Counting Using Computer Vision Techniques
 
-*Explainable Artificial Intelligence (XAI) for Deep Learning Based Medical Imaging    Classification
+* Explainable Artificial Intelligence (XAI) for Deep Learning Based Medical Imaging   Classification
 
 ## Research Project
 
