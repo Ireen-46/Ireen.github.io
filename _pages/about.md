@@ -20,6 +20,8 @@ I am Mohammad Asifur Rahim,lecturer in the department of CSE at <a href="https:/
 
 -----------
 # Activities 
+* <span style="color:Blue"> [November 13, 2023] </span> - One paper got accepted at [IEEE ICCIT 2023](https://iccit.org.bd/2023/).
+
 * <span style="color:Blue"> [September 07, 2023] </span> - Successfully presented my [paper](https://annoy180104109.github.io/asifur-rahim.github.io/files/BIM_certificate.pdf) at [BIM 2023](https://confbim.com/).
 * <span style="color:Blue"> [July 04, 2023] </span> - One paper got accepted at [BIM 2023](https://confbim.com/).
 
