@@ -16,7 +16,7 @@ I am Ireen Ara Haque,recently graduated in the department of Computer Science an
  
 <b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*,  *Deep Learning*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:ireenara123@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
 
-**For additional information, please see the [CV](https://annoy180104109.github.io/asifur-rahim.github.io/cv/) and [publications](https://annoy180104109.github.io/asifur-rahim.github.io/publications/).**
+**For additional information, please see the [CV](https://ireen-46.github.io/Ireen.github.io//cv/) and [publications](https://ireen-46.github.io/Ireen.github.io//publications/).**
 
 -----------
 # Activities 
