@@ -12,7 +12,7 @@ redirect_from:
 <b>B.Sc., Computer Science and Telecommunication Engineering</b><br />
 Noakhali Science and Technology University<br />
 Dhaka, Bangladesh<br />
-<i style='color:#000099;'>**April 2018 - January 2023**</i>
+<i style='color:#000099;'>**November 2018 - May 2024**</i>
 
 
 
@@ -21,11 +21,11 @@ Dhaka, Bangladesh<br />
 ## Contact Me
 -------------
 
-**Email:** asifurrahim.cse[at]diu[dot]edu[dot]bd, mohammadasifurrahim[at]gmail[dot]com<br /> 
+**Email:** asifurrahim.cse[at]diu[dot]edu[dot]bd, ireenara123@gmail.com[at]gmail[dot]com<br /> 
  <br /> 
-**Website:** [https://annoy180104109.github.io/asifur-rahim.github.io/](https://annoy180104109.github.io/asifur-rahim.github.io/) <br />
+**Website:** [https://ireen-46.github.io/Ireen.github.io//](https://ireen-46.github.io/Ireen.github.io//) <br />
 
-You can also find me on [Google Scholar](https://scholar.google.com/citations?user=5O9QMxUAAAAJ&hl=en), [Github](https://github.com/Annoy180104109).
+You can also find me on [Google Scholar](https://scholar.google.com/citations?user=NJeAzDcAAAAJ&hl=en), [Github](https://github.com/Ireen-46).
 
 
 **Address:**
