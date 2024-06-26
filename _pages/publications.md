@@ -15,14 +15,18 @@ redirect_from:
 
 ## Under Review
 
-* EfficientNet-Based Deep Learning Model for Advanced Waste Classification”.2024 IEEE CONFERENCE ON COMPUTING, APPLICATIONS
-AND SYSTEMS.[paper-link](https://ireen-46.github.io/Ireen.github.io//files/waste.pdf).[conference site link](https://www.compasconf.org/)
+* Umme Ayman,Mohammad Asifur Rahim,Ireen Ara Haque, ”EfficientNet-Based Deep Learning Model for Advanced Waste Classification”.2024 IEEE CONFERENCE ON COMPUTING, APPLICATIONS
+AND SYSTEMS.[[paper-link]](https://ireen-46.github.io/Ireen.github.io//files/waste.pdf).[[conference site link]](https://www.compasconf.org/)
 
 
 
 ## On-Going Research Work
+* "Work-Life Balance Prediction For Academic Women In Bangladesh Using Machine Learning,"
+This research focuses on collecting data's from real world,Analysing the condition of working women using different feature extraction techniques and predicting satisfaction of women in their work using ML models.[[paper-link]](https://ireen-46.github.io/Ireen.github.io//files/Thesis_paper.pdf)
 
-* Real Time Traffic Vehicle Detection and Counting Using Computer Vision Techniques
+* "Comparative Analysis of Hybrid VGG16-LSTM and VGG19-LSTM Models for Brain Tumor detection in MRI images". 
+Comparative Analysis Among Four EfficientNet Models and two hybrid models over two public brain tumor datasets have been done in this research.  
 
-* Explainable Artificial Intelligence (XAI) for Deep Learning Based Medical Imaging   Classification
+* "Polyp segmentation using Different U-Net Architectures-A Comparative Analysis".
+This research aims to Analyse different variants of U-net models for segmentation of polyps using multiple public datasets.
 
