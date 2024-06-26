@@ -9,17 +9,11 @@ redirect_from:
 
 ## Education 
 -------------
-<b>B.Sc., Computer Science and Engineering</b><br />
-Ahsanullah University of Science and Technology<br />
+<b>B.Sc., Computer Science and Telecommunication Engineering</b><br />
+Noakhali Science and Technology University<br />
 Dhaka, Bangladesh<br />
 <i style='color:#000099;'>**April 2018 - January 2023**</i>
 
-## Employment 
--------------
-<b>Lecturer</b><br />
-Department of Computer Science and Engineering <br/>
-Daffodil International University of Science and Technology<br />
-<i style='color:#000099;'>**January 2023 - current**</i><br/>
 
 
 [Download Full CV](https://annoy180104109.github.io/asifur-rahim.github.io/files/Academic_CV_Annoy.pdf) [<ins>*Last Updated on November 23, 2023*</ins>]

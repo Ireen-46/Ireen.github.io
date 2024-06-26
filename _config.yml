@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammad Asifur Rahim"
+title                    : "Ireen Ara Haque"
 title_separator          : "-"
-name                     : &name "Mohammmad Asifur Rahim"
+name                     : &name "Ireen Ara Haque"
 description              : &description "personal description"
-url                      :  https://annoy180104109.github.io/asifur-rahim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  https://ireen-46.github.io/Ireen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Annoy180104109/asifur-rahim.github.io"
+repository               : "https://github.com/Ireen-46/Ireen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mohammad Asifur Rahim"
-  avatar           : "pp.jpg"
+  name             : "Ireen Ara Haque"
+  avatar           : "self_pic.jpg"
   bio              : ""
   location         : "Dhaka, Bangladesh"
   employer         :
