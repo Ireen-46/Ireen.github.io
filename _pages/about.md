@@ -12,7 +12,7 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Mohammad Asifur Rahim,lecturer in the department of CSE at <a href="https://faculty.daffodilvarsity.edu.bd/profile/cse/asifur.html"> Daffodil International University,Bangladesh</a>.I have completed my B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Machine Learning,Deep Learning Computer Vision, Image Processing and Natural Language Processing.<br /><br /></div>
+I am Ireen Ara Haque,lecturer in the department of CSE at <a href="https://faculty.daffodilvarsity.edu.bd/profile/cse/asifur.html"> Daffodil International University,Bangladesh</a>.I have completed my B.Sc. in Computer Science and Engineering from <a href="http://aust.edu/">Ahsanullah University of Science and Technology (AUST)</a>, Dhaka, Bangladesh. My primary research interest lies in Machine Learning,Deep Learning Computer Vision, Image Processing and Natural Language Processing.<br /><br /></div>
  
 <b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*,  *Deep Learning*,*Natural Language Processing*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:mohammadasifurrahim@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
 
