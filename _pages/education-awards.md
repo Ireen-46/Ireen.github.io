@@ -22,8 +22,11 @@ redirect_from:
 * **Supervisor:** [Associate Prof.Dr.Nazia Majadi](https://scholar.google.com/citations?user=0ZPZvzEAAAAJ&hl=en&oi=ao), Associate Professor, Department of CSTE, NSTU
 
 <br /> 
+
 # Participation and Awards
 
-* **Dean's
+* Participated at NSTU PI DAY Programming Contest 2019[[certificate]](https://ireen-46.github.io/Ireen.github.io//files/NSTU-PI-Day.pdf) 
+* Participated at CSTE Carnival Programming Contest
+* Participated at the Regional Workshop on Networking Basics and Campus Network Design(WNBCND-3)[[certificate]](https://ireen-46.github.io/Ireen.github.io//files/SAFE.pdf) 
 
 ___________________________________________
