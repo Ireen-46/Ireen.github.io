@@ -12,7 +12,7 @@ Greetings!!!
 
 <div style="text-align: justify"> 
 
-I am Ireen Ara Haque,recently graduated in the department of Computer Science and Telecommunication Engineering (CSTE) at Noakhali Science and Technology University <a href="https://www.nstu.edu.bd/"></a>, Noakhali, Bangladesh. My primary research interest lies in Machine Learning,Deep Learning Computer Vision and Image Processing.<br /><br /></div>
+I am Ireen Ara Haque,recently graduated in the department of Computer Science and Telecommunication Engineering (CSTE) at <a href="https://www.nstu.edu.bd/">Noakhali Science and Technology University</a>, Noakhali, Bangladesh. My primary research interest lies in Machine Learning,Deep Learning Computer Vision and Image Processing.<br /><br /></div>
  
 <b> I am open to any Research Collaborations in the field of *Computer Vision*, *Image Analysis*,  *Deep Learning*. Please reach out if you have anything to discuss or want to work together.  </b> <a href="mailto:ireenara123@gmail.com"><i class="fas fa-envelope"></i></a> <br />  
 
