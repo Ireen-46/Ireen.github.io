@@ -21,7 +21,7 @@ Dhaka, Bangladesh<br />
 ## Contact Me
 -------------
 
-**Email:** asifurrahim.cse[at]diu[dot]edu[dot]bd, ireenara123@gmail.com[at]gmail[dot]com<br /> 
+**Email:** ireen0114@student.nstu.edu.bd, ireenara123@gmail.com<br /> 
  <br /> 
 **Website:** [https://ireen-46.github.io/Ireen.github.io//](https://ireen-46.github.io/Ireen.github.io//) <br />
 
@@ -30,10 +30,9 @@ You can also find me on [Google Scholar](https://scholar.google.com/citations?us
 
 **Address:**
 <address>
-Department of Computer Science <br /> 
-Daffodil International University <br /> 
-Daffodil Smart City,Ashulia <br />
-Dhaka, Bangladesh. <br /> 
+Department of Computer Science and Telecommunication Engineering<br /> 
+Noakhali Science and Technology University <br /> 
+Noakhali, Bangladesh. <br /> 
 </address> 
 <br /> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29187.16159450864!2d90.320302!3d23.875601!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c23dd12bbc75%3A0x313d214552eabe56!2sDaffodil%20Smart%20City!5e0!3m2!1sen!2sbd!4v1693576919002!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14713.171438916153!2d91.1027708!3d22.7916098!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3754af712aaac0b7%3A0x4bab3d112f6b6f3f!2sNoakhali%20Science%20and%20Technology%20University!5e0!3m2!1sen!2sbd!4v1719483247803!5m2!1sen!2sbd" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
