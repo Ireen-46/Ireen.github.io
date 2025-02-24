@@ -21,7 +21,9 @@ I am Ireen Ara Haque,recently graduated in the department of Computer Science an
 -----------
 # Activities 
 
-* <span style="color:Blue"> [June 25, 2024] </span> - One my [paper](https://ireen-46.github.io/Ireen.github.io//files/waste.pdf) submitted at [Compass 2024](https://www.compasconf.org/).
+* <span style="color:Blue"> [November 15, 2024] </span> - One my [paper](https://ireen-46.github.io/Ireen.github.io//files/waste.pdf) accepted at [ICCIT 2024](https://iccit.org.bd/2024/).
+
+* <span style="color:Blue"> [August 2, 2024] </span> - One my [paper](https://ireen-46.github.io/Ireen.github.io//files/Brain-tumor.pdf) submitted at [International Journal of Electrical & Computer Science (IJECE)](https://ijece.iaescore.com/index.php/IJECE).
 
 * <span style="color:Blue"> [May 8, 2024]  </span> - Graduated from Noakhali Science and Technology University in the department of CSTU.
 * <span style="color:Blue"> [March 10, 2024]  </span> - Successfully defended my [B.Sc. Thesis](https://ireen-46.github.io/Ireen.github.io//files/Thesis_paper.pdf). 

@@ -15,8 +15,8 @@ redirect_from:
 
 ## Publication
 
-* Umme Ayman,Mohammad Asifur Rahim,**Ireen Ara Haque**, ”_EfficientNet-Based Deep Learning Model for Advanced Waste Classification_”.2024 IEEE CONFERENCE ON COMPUTING, APPLICATIONS
-AND SYSTEMS.[[paper-link]](https://ireen-46.github.io/Ireen.github.io//files/waste.pdf).[[conference site link]](https://www.compasconf.org/)
+* Umme Ayman,Mohammad Asifur Rahim,**Ireen Ara Haque**, ”_EfficientNet-Based Deep Learning Model for Advanced Waste Classification_”.
+International Conference on Computer and Information Technology (ICCIT), 2024.[[paper-link]](https://ireen-46.github.io/Ireen.github.io//files/waste.pdf).[[conference site link]](https://iccit.org.bd/2024/)
 
 
 
